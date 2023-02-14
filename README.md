@@ -26,6 +26,6 @@
 
 ## Submission Guidelines
 
-* The zip file should be named {yourname}.zip, and should itself contain the full-stack-recruitment-test project folder with your submission.
+* The zip file should be named {yourname}.zip, and should contain the Flutter Application project folder with your submission.
 
 * The zip file should contain the [FOLLOW_UP.md](./FOLLOW_UP.md) file with answers to the follow-up questions.
